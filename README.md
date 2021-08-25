@@ -1,7 +1,5 @@
 # seven_wonders_NFT
 
-# Mint Condition Artwork
-
 In this activity, you’ll create a dApp for the artwork token.
 
 ## Instructions
